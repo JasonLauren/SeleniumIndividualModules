@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-23T17:36:25 MYT" name="Default suite" finished-at="2023-05-23T17:36:51 MYT" duration-ms="25291">
+    <groups>
+    </groups>
+    <test started-at="2023-05-23T17:36:25 MYT" name="Default test" finished-at="2023-05-23T17:36:51 MYT" duration-ms="25291">
+      <class name="com.selenium.individual.com.selenium.individual.ActionsModule">
+        <test-method signature="open_chrome()[pri:1, instance:com.selenium.individual.com.selenium.individual.ActionsModule@13fd2ccd]" started-at="2023-05-23T17:36:25 MYT" name="open_chrome" finished-at="2023-05-23T17:36:32 MYT" duration-ms="6674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_chrome -->
+        <test-method signature="screenshot()[pri:2, instance:com.selenium.individual.com.selenium.individual.ActionsModule@13fd2ccd]" started-at="2023-05-23T17:36:32 MYT" name="screenshot" finished-at="2023-05-23T17:36:32 MYT" duration-ms="268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method signature="login()[pri:3, instance:com.selenium.individual.com.selenium.individual.ActionsModule@13fd2ccd]" started-at="2023-05-23T17:36:32 MYT" name="login" finished-at="2023-05-23T17:36:39 MYT" duration-ms="6475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="mouse_over_contacts()[pri:4, instance:com.selenium.individual.com.selenium.individual.ActionsModule@13fd2ccd]" started-at="2023-05-23T17:36:39 MYT" name="mouse_over_contacts" finished-at="2023-05-23T17:36:39 MYT" duration-ms="242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mouse_over_contacts -->
+        <test-method signature="contacts()[pri:5, instance:com.selenium.individual.com.selenium.individual.ActionsModule@13fd2ccd]" started-at="2023-05-23T17:36:39 MYT" name="contacts" finished-at="2023-05-23T17:36:47 MYT" duration-ms="7456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contacts -->
+        <test-method signature="logout()[pri:6, instance:com.selenium.individual.com.selenium.individual.ActionsModule@13fd2ccd]" started-at="2023-05-23T17:36:47 MYT" name="logout" finished-at="2023-05-23T17:36:48 MYT" duration-ms="1130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.individual.com.selenium.individual.ActionsModule@13fd2ccd]" started-at="2023-05-23T17:36:48 MYT" name="teardown" finished-at="2023-05-23T17:36:51 MYT" duration-ms="3002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.selenium.individual.com.selenium.individual.ActionsModule -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
